@@ -124,7 +124,7 @@ achievement, and estimated savings under a hypothetical 5%
 cost-reduction scenario.
 ## Dashboard Screenshots
 
-### 1. Financial Overview
+### 1. Manufacturing Cost & Plant Intelligence
 ![Financial Overview](Dashboard%20Screenshots/Dashboard1.png)
 
 ### 2. Revenue & Profit Analysis
