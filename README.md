@@ -124,6 +124,14 @@ achievement, and estimated savings under a hypothetical 5%
 cost-reduction scenario.
 ## Dashboard Screenshots
 
+### 1. Financial Overview
+![Financial Overview](Dashboard%20Screenshots/Dashboard1.png)
+
+### 2. Revenue & Profit Analysis
+![Revenue & Profit Analysis](Dashboard%20Screenshots/Dashboard2.png)
+
+### 3. Cost Analysis
+![Cost Analysis](Dashboard%20Screenshots/dashboard%203.png)
 
 ## Key Measures
 
