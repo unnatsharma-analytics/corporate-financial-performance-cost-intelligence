@@ -122,6 +122,16 @@ manufacturing costs by car model, and cost components.
 A comparison of actual and budget revenue and costs, revenue
 achievement, and estimated savings under a hypothetical 5%
 cost-reduction scenario.
+## Dashboard Screenshots
+
+### 1. Financial Overview
+![Financial Overview](Screenshots/Dashboard1%20T.png)
+
+### 2. Revenue & Profit Analysis
+![Revenue & Profit Analysis](Screenshots/Dashboard2%20T.png)
+
+### 3. Cost Analysis
+![Cost Analysis](Screenshots/dashboard%203%20T.png)
 
 ## Key Measures
 
