@@ -127,7 +127,7 @@ cost-reduction scenario.
 ### 1. Manufacturing Cost & Plant Intelligence
 ![Financial Overview](Dashboard%20Screenshots/Dashboard1.png)
 
-### 2. Revenue & Profit Analysis
+### 2. Corporate Financial Performance
 ![Revenue & Profit Analysis](Dashboard%20Screenshots/Dashboard2.png)
 
 ### 3. Cost Analysis
