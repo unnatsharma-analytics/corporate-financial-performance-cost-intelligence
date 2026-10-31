@@ -130,7 +130,7 @@ cost-reduction scenario.
 ### 2. Corporate Financial Performance
 ![Revenue & Profit Analysis](Dashboard%20Screenshots/Dashboard2.png)
 
-### 3. Cost Analysis
+### 3. Budget Variance & Cost Optimization
 ![Cost Analysis](Dashboard%20Screenshots/dashboard%203.png)
 
 ## Key Measures
